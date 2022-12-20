@@ -1,0 +1,8 @@
+C:\Users\bg\Desktop\project 2 perfectn\project 2 perfectn\bin\Debug\project 2 perfectn.exe.config
+C:\Users\bg\Desktop\project 2 perfectn\project 2 perfectn\bin\Debug\project 2 perfectn.exe
+C:\Users\bg\Desktop\project 2 perfectn\project 2 perfectn\bin\Debug\project 2 perfectn.pdb
+C:\Users\bg\Desktop\project 2 perfectn\project 2 perfectn\obj\Debug\project 2 perfectn.csproj.AssemblyReference.cache
+C:\Users\bg\Desktop\project 2 perfectn\project 2 perfectn\obj\Debug\project 2 perfectn.csproj.SuggestedBindingRedirects.cache
+C:\Users\bg\Desktop\project 2 perfectn\project 2 perfectn\obj\Debug\project 2 perfectn.csproj.CoreCompileInputs.cache
+C:\Users\bg\Desktop\project 2 perfectn\project 2 perfectn\obj\Debug\project 2 perfectn.exe
+C:\Users\bg\Desktop\project 2 perfectn\project 2 perfectn\obj\Debug\project 2 perfectn.pdb
